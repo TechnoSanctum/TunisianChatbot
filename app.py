@@ -1,7 +1,5 @@
 from flask import Flask, render_template, request
 from chatterbot import ChatBot
-
-import sys
 app = Flask(__name__)
 last_message = ""
 rp = 0
