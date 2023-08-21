@@ -1,3 +1,6 @@
 Flask==2.3.2
-chatterbot==1.0.4
-pytz
+chatterbot-corpus==1.2.0
+pytz==2021.1
+spacy==3.1.1
+SQLAlchemy==1.4.25
+chatterbot==1.0.5
